@@ -6,7 +6,7 @@
 
 Construído durante o Processo Seletivo do CITi da UFPE
 
-[🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/CITiUFPE_PS2021/)
+[🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/CITiUFPE_PS2021.2/)
 
 
 ## 🛠 Tecnologias
